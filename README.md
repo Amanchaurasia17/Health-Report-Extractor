@@ -248,3 +248,25 @@ The API includes comprehensive error handling and logging for easy debugging.
 ## License
 
 This project is licensed under the MIT License.
+
+## Screenshots
+
+### Main Interface
+![Main Dashboard](screenshots/main-dashboard.png)
+*The main dashboard showing the file upload interface and health records overview*
+
+### File Upload Process
+![File Upload](screenshots/file-upload.png)
+*Drag and drop file upload interface with support for PDF and image files*
+
+### Health Records Display
+![Health Records](screenshots/health-records.png)
+*Extracted health data displayed in a clean, organized table format*
+
+### Data Visualization
+![Trends Chart](screenshots/trends-chart.png)
+*Interactive charts showing health metrics trends over time*
+
+### Processing Results
+![Processing Results](screenshots/processing-results.png)
+*Real-time processing results showing extracted health metrics*
