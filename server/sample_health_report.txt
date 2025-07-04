@@ -1,0 +1,55 @@
+COMPREHENSIVE HEALTH REPORT
+
+Patient: John Doe
+Date of Birth: January 15, 1985
+Report Date: July 4, 2025
+Doctor: Dr. Sarah Johnson
+
+LABORATORY RESULTS:
+
+COMPLETE BLOOD COUNT (CBC)
+Hemoglobin: 14.2 g/dL (Normal Range: 12.0-15.5)
+Hematocrit: 42.1% (Normal Range: 36-46)
+White Blood Cells: 7.2 k/uL (Normal Range: 4.5-11.0)
+Red Blood Cells: 4.8 M/uL (Normal Range: 4.2-5.4)
+Platelets: 250 k/uL (Normal Range: 150-450)
+
+BASIC METABOLIC PANEL
+Glucose: 95 mg/dL (Normal Range: 70-100)
+Creatinine: 1.0 mg/dL (Normal Range: 0.7-1.3)
+Blood Urea Nitrogen: 15 mg/dL (Normal Range: 7-20)
+Sodium: 140 mEq/L (Normal Range: 136-145)
+Potassium: 4.2 mEq/L (Normal Range: 3.5-5.0)
+
+LIPID PANEL
+Total Cholesterol: 185 mg/dL (Normal Range: 125-200)
+HDL Cholesterol: 55 mg/dL (Normal Range: 40-60)
+LDL Cholesterol: 110 mg/dL (Normal Range: 0-100)
+Triglycerides: 120 mg/dL (Normal Range: 0-150)
+
+THYROID FUNCTION
+TSH: 2.5 mIU/L (Normal Range: 0.4-4.0)
+Free T4: 1.2 ng/dL (Normal Range: 0.8-1.8)
+
+LIVER FUNCTION
+ALT: 25 U/L (Normal Range: 7-56)
+AST: 22 U/L (Normal Range: 10-40)
+
+VITAMINS & MINERALS
+Vitamin D: 32 ng/mL (Normal Range: 30-100)
+Vitamin B12: 450 pg/mL (Normal Range: 200-900)
+Iron: 85 ug/dL (Normal Range: 60-170)
+
+ABNORMAL FINDINGS:
+- LDL Cholesterol: 110 mg/dL (Slightly elevated - target <100)
+
+RECOMMENDATIONS:
+1. Continue current healthy lifestyle
+2. Monitor LDL cholesterol levels
+3. Consider dietary modifications to reduce LDL
+4. Follow up in 3 months
+
+Overall Assessment: Good health with minor lipid management needed.
+
+Dr. Sarah Johnson, MD
+Internal Medicine
